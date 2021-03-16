@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @faishalabiy
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on some web project
-- 📫 u can reach me on faishalabiyy@gmail.com
+Need me for something?
+Feel free to contact me anytime ↓↓
+📫 u can reach me on <b>faishalabiyy@gmail.com</b>
