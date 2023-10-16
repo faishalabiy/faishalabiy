@@ -1,0 +1,53 @@
+:root{
+  --white1: #ffffff;
+  --white2: #f2f2f2;
+  --black1: #212121;
+  --grey1: #313131;
+  --green1: #39b54a;
+  --shadow: 0 2px 2px rgb(0, 0, 0 / 0.5);
+}
+
+@font-face {
+    font-family: helveticaNeue;
+    src: url(css/font/helveticaNeue.otf);
+  }
+  @font-face {
+    font-family: neutralFace;
+    src: url(css/font/neutralFace.otf);
+  }
+  
+body{
+  font-family: 'Neucha', cursive;
+  font-size: 1rem;
+}
+
+.hero{
+  background-image: url(img/bg-jumbotron-right.jpg);
+}
+  .jumbotron {
+    background-image: url('img/bg-jumbotron-right.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 75% 50%;
+  }
+
+  .footer{
+    background-color: #212121;
+  }
+  .footer .navLink a{
+    color: white;
+    text-decoration: none;
+  }
+  .footer .navLink a:hover{
+    text-decoration: underline;
+  }
+  .footer .footer-top .footer-links a {
+    color: white;
+    text-decoration: none;
+  }
+  .footer .footer-top .footer-links a:hover{
+    text-decoration: underline;
+  }
+  .footer .footer-top .footer-newsletter{
+    color: white;
+  }
