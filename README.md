@@ -14,18 +14,21 @@ any business about some projects or anything about work? you can always reach on
 ## ----------------------------------------------------------------------------------------------------
 
 ##### Here is my Track Record 💾
+<p align="center">
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=faishalabiy&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+</p>
 ## ----------------------------------------------------------------------------------------------------
 
 ##### Lets Connect! 🔗🤙
+<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faishalabiyy)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faishal-abiy/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Faishal.abiy)
+</p>
 
 ## ----------------------------------------------------------------------------------------------------
-
-![Gif](img/muter-gif.gif)
-![Giif](img/tired-gif.gif)
-
+<p align="center">
+    ![Gif](img/muter-gif.gif)
+    ![Giif](img/tired-gif.gif)
+</p>
