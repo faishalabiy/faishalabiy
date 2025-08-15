@@ -16,18 +16,18 @@ any business about some projects or anything about work? you can always reach on
 
 ##### Here is my Track Record 💾
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats){ width="auto" height="auto" style="display: block; margin: 0 auto" }
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=faishalabiy&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats){ width="auto" height="auto" style="display: block; margin: 0 auto" }
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=faishalabiy&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## ----------------------------------------------------------------------------------------------------
 
 ##### Lets Connect! 🔗🤙
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faishalabiyy){ width="auto" height="auto" style="display: block; margin: 0 auto" }
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faishal-abiy/){ width="auto" height="auto" style="display: block; margin: 0 auto" }
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Faishal.abiy){ width="auto" height="auto" style="display: block; margin: 0 auto" }
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faishalabiyy)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faishal-abiy/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Faishal.abiy)
 
 
 ## ----------------------------------------------------------------------------------------------------
-![Gif](img/muter-gif.gif){ width="300" height="200" style="display: block; margin: 0 auto" }
-![Giif](img/tired-gif.gif){ width="300" height="200" style="display: block; margin: 0 auto" }
+![Gif](img/muter-gif.gif)
+![Giif](img/tired-gif.gif)
