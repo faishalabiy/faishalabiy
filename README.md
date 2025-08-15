@@ -29,5 +29,5 @@ any business about some projects or anything about work? you can always reach on
 
 
 ## ----------------------------------------------------------------------------------------------------
-![Gif](img/muter-gif.gif){ width="auto" height="auto" style="display: block; margin: 0 auto" }
-![Giif](img/tired-gif.gif){ width="auto" height="auto" style="display: block; margin: 0 auto" }
+![Gif](img/muter-gif.gif){ width="300" height="200" style="display: block; margin: 0 auto" }
+![Giif](img/tired-gif.gif){ width="300" height="200" style="display: block; margin: 0 auto" }
