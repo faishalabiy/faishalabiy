@@ -25,6 +25,10 @@ any business about some projects or anything about work? you can always reach on
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faishalabiy&theme=highcontrast&hide_border=true&locale=ja&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faishalabiy&theme=great_gatsby&show_icons=true)
+
 
 </div>
 
