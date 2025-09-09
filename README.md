@@ -27,7 +27,7 @@ any business about some projects or anything about work? you can always reach on
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faishalabiy&theme=great-gatsby&show_icons=true&hide_border=true&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faishalabiy&theme=great-gatsby&show_icons=true&hide_border=true&rank_icon=github&locale=ja)
 
 
 </div>
