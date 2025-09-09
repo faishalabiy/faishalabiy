@@ -18,7 +18,8 @@ any business about some projects or anything about work? you can always reach on
 <div style="text-align: center">
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
