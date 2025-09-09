@@ -16,7 +16,7 @@ any business about some projects or anything about work? you can always reach on
 
 ##### Here is my Track Record 💾
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalabiy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=faishalabiy&theme=highcontrast&hide_border=true&locale=ja&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## ----------------------------------------------------------------------------------------------------
